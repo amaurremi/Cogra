@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cogra">
+    <output-path>$PROJECT_DIR$/out/artifacts/cogra</output-path>
+    <root id="archive" name="cogra.jar">
+      <element id="module-output" name="Cogra2" />
+      <element id="file-copy" path="C:/Program Files/Java/Java3D/1.5.1/lib/ext/j3dcore.jar" />
+      <element id="file-copy" path="C:/Program Files/Java/Java3D/1.5.1/lib/ext/j3dutils.jar" />
+      <element id="file-copy" path="C:/Program Files/Java/Java3D/1.5.1/lib/ext/vecmath.jar" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
